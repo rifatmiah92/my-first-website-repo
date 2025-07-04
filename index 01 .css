@@ -2,4 +2,12 @@ h2{
     background-color: cadetblue;
     border: 10px;
     border-color: darkblue;
+    margin: 10px;
+}
+h2{
+    color: darkred;
+}
+h1{
+    text-align: center;
+    color: darkblue;
 }
